@@ -47,4 +47,4 @@ The Bidder App Backend is a server-side application built with **Node.js**, **Ex
 Feel free to fork the repository, create a pull request, or submit issues for bugs and feature requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
